@@ -4,7 +4,7 @@ Hello and welcome to my blog. I am currently a fourth yeaer Biomedical/Electrica
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-![Image of fast.ai logo](images/logo.png) ![Photo of me](images/ME.jpg) 
+
 
 # Posts
 
