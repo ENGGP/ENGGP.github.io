@@ -1,6 +1,6 @@
 # Blog
 
-Hello and welcome to my blog. I am currently a fourth yeaer Biomedical/Electrical Engineering student studying at the University of Queensland. In this blog I will be documenting my daily learnings about FastAi.
+Hello and welcome to my blog. I am currently a fourth yeaer Biomedical/Electrical Engineering student studying at the University of Queensland. In this blog I will be documenting my learnings about FastAi, deep learning and neural networks.
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
