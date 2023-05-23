@@ -9,5 +9,5 @@ Hello and welcome to my blog. I am currently a fourth yeaer Biomedical/Electrica
 
 
 # Posts
-
+[How to Train and Test a Model](https://github.com/ENGGP/ENGGP.github.io/blob/master/_posts/How%20to%20Train%20and%20Test%20a%20Model)
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
