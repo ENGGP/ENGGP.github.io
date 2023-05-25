@@ -1,4 +1,4 @@
-# This is the title
+# Markup guide
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 Here's the table of contents:
