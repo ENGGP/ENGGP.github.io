@@ -6,3 +6,6 @@ Deep learning is a branch of machine learning which is a branch of artificial in
 Neural network assigns random weights to each neuron at the first layer. It then evaluates the loss value and error and it will refine the layer. This done for each layer therefore the accuracy of the model will increase and loss will decrease over time. This method is call back propagation.
 
 A neural network consist of layers interconnected neurons and each layer and each is build from the previous layer through refinement and prediction optimisation. This process is called forward propagation where data and statistics are ingested at the input layer and after prcoessing prediction is made at the output layer.
+
+## Vision_learner
+The data loader also divided the images in batch sizes. The default batch size is 64. A batch of images are analysed individually by vision_learner(). The small the bacth size, the more accurate the function can analyse the images. However, in exchance, runtime of the function will be higher. In this model, it was decided to leave the batch size as the default value for optimal accuracy and runtime.
